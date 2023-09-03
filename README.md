@@ -1,6 +1,6 @@
 # Text-Classification-for-Gender-Prediction
 YouTube Video link : https://www.youtube.com/watch?v=ARAm5qcatb4
-We aim to develop a machine learning model that can predict a person's gender based on textual data, such as text narratives or stories. The project utilizes natural language processing (NLP) techniques and machine learning algorithms to analyze and classify text data into binary gender categories (e.g., male or female).
+,We aim to develop a machine learning model that can predict a person's gender based on textual data, such as text narratives or stories. The project utilizes natural language processing (NLP) techniques and machine learning algorithms to analyze and classify text data into binary gender categories (e.g., male or female).
 
 Feature Extraction: Apply text vectorization techniques to convert the text data into numerical features. Experiment with various methods, such as CountVectorizer and TF-IDFVectorizer, to represent the text.
 Model Selection: Explore different machine learning algorithms for text classification. Consider algorithms like Linear Support Vector Classifier (LinearSVC) and other classifiers suitable for binary classification tasks.
